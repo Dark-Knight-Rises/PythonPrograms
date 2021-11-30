@@ -1,3 +1,4 @@
+# Check the greatest no
 num1=int(input("Enter 1st "))
 num2=int(input("Enter 2st "))
 num3=int(input("Enter 3st "))
