@@ -1,3 +1,4 @@
+# sum of first n terms with recursion
 def sumAll(n):
     if(n==1):
         return 1
