@@ -1,3 +1,4 @@
+# game of rock paper scissors between you and computer
 import random
 def comp():
     r=random.randint(1,3)
