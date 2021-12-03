@@ -1,5 +1,5 @@
 class Employee:
-    total=0
+    # total=0
     def __init__(self,sal,incr):
         self.sal=sal
         self.incr=incr
