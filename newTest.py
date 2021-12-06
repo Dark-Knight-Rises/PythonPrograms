@@ -1,7 +1,5 @@
 import time
-import random
 
-# class binVsLinear:
 def binS(list,target):
     if len(list) == 0:
         return False
