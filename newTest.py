@@ -32,3 +32,7 @@ res=binS(l,target)
 end=time.time()
 binT=end-start
 print(res," Binary Search\t Time taken: ",binT,"sec")
+
+diff=leniarT-binT
+perInc=diff/leniarT
+print(f"The diff is: {diff}\n% Increase/Decrease: Binary Search is {round(perInc*100)} % less time consuming than linear search ")
